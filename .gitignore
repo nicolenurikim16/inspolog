@@ -1,0 +1,8 @@
+*.csv
+*.db
+*.py
+*.sh
+*.log
+*.xlsx
+*.pyc
+__pycache__/
